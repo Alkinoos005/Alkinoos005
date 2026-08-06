@@ -1,95 +1,80 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:FFD700&height=200&section=header&text=STARK%20INDUSTRIES&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Alkinoos005%20//%20Full-Stack%20Systems&descAlignY=58&descSize=16&descColor=FF3B30" width="100%"/>
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alkinoos+%F0%9F%91%8B;Passionate+Perfectionist;Building+Meaningful+Projects" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=Booting+J.A.R.V.I.S...;Systems+online.;Good+morning%2C+visitor.;Suit+status%3A+Operational." alt="boot sequence" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00FF9C&height=180&section=header&text=Alkinoos005&fontSize=45&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20|%20Building%20from%20Greece&descAlignY=58&descSize=16" width="100%"/>
-
 ---
-
-### `whoami`
-
-```yaml
-name:      Alkinoos Polyzos
-location:  Greece 🇬🇷
-role:      Student/Full-Stack Developer
-status:    Focusing 🤵
-studying Field: Electrical and Computer Engineering
-mindset:   Passionate perfectionist, building meaningful projects
+ 
+### `>> SYSTEM DIAGNOSTIC`
+ 
+```ini
+[ARC REACTOR]      ONLINE
+[OPERATOR]         Alkinoos Polyzos
+[LOCATION]         Greece 🇬🇷
+[CLASSIFICATION]   Full-Stack Developer
+[STATUS]           Focusing 🤵
+[DIRECTIVE]        "Passionate perfectionist, building meaningful projects."
 ```
-
+ 
 <br>
-
-### 📈 Contribution Activity
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=800" width="70%"/>
+</div>
+### `>> ACTIVITY LOG`
+ 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Alkinoos005/Alkinoos005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
-
-> The snake above eats its way through my real contribution graph. It's generated automatically once a day by a GitHub Action — see setup below.
-
+> Real-time contribution feed, redressed as a HUD readout. Refreshes automatically once the Action below completes its first run.
+ 
 <br>
-
-### 📊 Live Stats
-
+### `>> SUIT TELEMETRY`
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&theme=redical-dark&hide_border=true&bg_color=0D0000&title_color=FFD700&icon_color=FF3B30&text_color=e6e6e6" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&theme=redical-dark&hide_border=true&background=0D0000&ring=FFD700&fire=FF3B30&currStreakLabel=FFD700" width="48%"/>
 </div>
-
 <br>
-
-### 🧬 Language Stack
-
+### `>> ARSENAL // LANGUAGES`
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" width="60%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&theme=redical-dark&hide_border=true&bg_color=0D0000&title_color=FFD700&text_color=e6e6e6" width="60%"/>
 </div>
-
 <br>
-
-### 🛠️ Tech Toolbox
-
+### `>> WORKSHOP TOOLS`
+ 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,linux&theme=dark" />
-
 </div>
-
 <br>
-
-### 🚀 Featured Work
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=800" width="70%"/>
+</div>
+### `>> DEPLOYED SUITS`
+ 
 <table>
 <tr>
 <td width="50%">
-
-**[AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
-Pinned project — add a one-line description here so visitors know what it does at a glance.
-
+**🔴 [AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
+Mark I — pinned project. Swap this line for a one-sentence description of what it does.
+ 
 </td>
 <td width="50%">
-
-**[Project Name]**
-Swap this card for your next repo — description, stack, and a link.
-
+**🟡 [Project Name]**
+Mark II — slot your next repo here with stack + link.
+ 
 </td>
 </tr>
 </table>
-
 <br>
-
-### 📡 Connect
-
+### `>> COMMS LINK`
+ 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Alkinoos005)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Alkinoos005)
+ 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f0f0f&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub><i>"Sometimes you gotta run before you can walk." — powered by caffeine and stubbornness.</i></sub>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1a0000&height=120&section=footer" width="100%"/>
+ 
