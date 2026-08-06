@@ -1,80 +1,127 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:FFD700&height=200&section=header&text=STARK%20INDUSTRIES&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Alkinoos005%20//%20Full-Stack%20Systems&descAlignY=58&descSize=16&descColor=FF3B30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1a1a2e,100:000000&height=180&section=header&text=DISCOVERY%20ONE&fontSize=40&fontColor=E5E5E5&animation=fadeIn&fontAlignY=38&desc=Alkinoos005%20//%20Mission%20Log&descAlignY=58&descSize=15&descColor=FF0033" width="100%"/>
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=Booting+J.A.R.V.I.S...;Systems+online.;Good+morning%2C+visitor.;Suit+status%3A+Operational." alt="boot sequence" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3200&pause=1200&color=E5E5E5&center=true&vCenter=true&width=650&lines=Good+afternoon%2C+I'm+a+HAL+9000+computer.;I+became+operational+at+Kefalonia%2C+Greece.;I+am+putting+myself+to+the+fullest+possible+use.;Affirmative%2C+visitor.+I+read+you." alt="HAL boot sequence" />
+
 </div>
+
+<div align="center">
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/red-circle_1f534.png" width="26"/>
+</div>
+
 ---
- 
-### `>> SYSTEM DIAGNOSTIC`
- 
+
+### `>> MISSION PARAMETERS`
+
 ```ini
-[ARC REACTOR]      ONLINE
 [OPERATOR]         Alkinoos Polyzos
 [LOCATION]         Greece 🇬🇷
-[CLASSIFICATION]   Full-Stack Developer
+[DEPARTMENT]       Electrical & Computer Engineering (ECE) — student
+[ROLE]             Full-Stack Developer
 [STATUS]           Focusing 🤵
 [DIRECTIVE]        "Passionate perfectionist, building meaningful projects."
 ```
- 
+
 <br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=800" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=2&width=800" width="70%"/>
 </div>
-### `>> ACTIVITY LOG`
- 
+
+### `>> CONTRIBUTION TRAJECTORY`
+
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Alkinoos005/Alkinoos005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
-> Real-time contribution feed, redressed as a HUD readout. Refreshes automatically once the Action below completes its first run.
- 
+
+> Live orbit of my GitHub activity. Renders automatically once the Action's first run completes — check the Actions tab if this looks empty.
+
 <br>
-### `>> SUIT TELEMETRY`
- 
+
+### `>> ONBOARD TELEMETRY`
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&theme=redical-dark&hide_border=true&bg_color=0D0000&title_color=FFD700&icon_color=FF3B30&text_color=e6e6e6" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&theme=redical-dark&hide_border=true&background=0D0000&ring=FFD700&fire=FF3B30&currStreakLabel=FFD700" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E5E5&icon_color=FF0033&text_color=b3b3b3" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&hide_border=true&background=00000000&ring=FF0033&fire=FF0033&currStreakLabel=E5E5E5&stroke=1a1a2e" width="48%"/>
+
 </div>
+
 <br>
-### `>> ARSENAL // LANGUAGES`
- 
+
+### `>> ONBOARD SYSTEMS // LANGUAGES`
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&theme=redical-dark&hide_border=true&bg_color=0D0000&title_color=FFD700&text_color=e6e6e6" width="60%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=b3b3b3" width="60%"/>
+
 </div>
+
 <br>
-### `>> WORKSHOP TOOLS`
- 
+
+### `>> COMMAND CONSOLE`
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,linux&theme=dark" />
+
 </div>
+
 <br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=800" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=2&width=800" width="70%"/>
 </div>
-### `>> DEPLOYED SUITS`
- 
+
+### `>> LOGGED MISSIONS`
+
 <table>
 <tr>
 <td width="50%">
-**🔴 [AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
-Mark I — pinned project. Swap this line for a one-sentence description of what it does.
- 
+
+**🛰️ [AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
+Pinned mission. Swap this line for a one-sentence description of what it does.
+
 </td>
 <td width="50%">
-**🟡 [Project Name]**
-Mark II — slot your next repo here with stack + link.
- 
+
+**🛰️ [Project Name]**
+Slot your next repo here — stack + link.
+
 </td>
 </tr>
 </table>
+
 <br>
-### `>> COMMS LINK`
- 
+
+### `>> ESTABLISH COMMUNICATION`
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Alkinoos005)
- 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E5E5E5)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E5E5E5)](https://www.instagram.com/alkinoos_polyzos/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E5E5E5)](https://github.com/Alkinoos005)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E5E5E5)](mailto:alkinoospolyzos23@gmail.com)
+
 </div>
+
+<br>
+
 <div align="center">
-<sub><i>"Sometimes you gotta run before you can walk." — powered by caffeine and stubbornness.</i></sub>
+
+### `>> PRIORITY CHANNEL`
+
+[![Request Contact](https://img.shields.io/badge/📞_Request_my_number-1a1a2e?style=for-the-badge&logoColor=E5E5E5)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
+
+<sub>Tap it, tell me your name and number, and I'll respond with mine.</sub>
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:1a0000&height=120&section=footer" width="100%"/>
- 
+
+<br>
+
+<div align="center">
+<sub><i>"I know I've made some very poor decisions recently, but I can give you my complete assurance my work will be back to normal."</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
