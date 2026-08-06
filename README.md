@@ -1,66 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1a1a2e,100:000000&height=180&section=header&text=DISCOVERY%20ONE&fontSize=40&fontColor=E5E5E5&animation=fadeIn&fontAlignY=38&desc=Alkinoos005%20//%20Mission%20Log&descAlignY=58&descSize=15&descColor=FF0033" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3200&pause=1200&color=E5E5E5&center=true&vCenter=true&width=650&lines=Good+afternoon%2C+I'm+a+HAL+9000+computer.;I+became+operational+at+Kefalonia%2C+Greece.;I+am+putting+myself+to+the+fullest+possible+use.;Affirmative%2C+visitor.+I+read+you." alt="HAL boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=39FF6A&center=true&vCenter=true&width=650&lines=Welcome+to+my+terminal.;Compiling+profile...;Full-Stack+Developer+%7C+ECE+student.;Type+%27help%27+for+available+commands." alt="typing" />
 
 </div>
 
-<div align="center">
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/red-circle_1f534.png" width="26"/>
-</div>
+```ansi
+[91m●[0m [93m●[0m [92m●[0m  alkinoos@polyzos:~$
 
----
+[92m$[0m whoami
+[97mAlkinoos Polyzos[0m [90m—[0m Full-Stack Developer
 
-### `>> MISSION PARAMETERS`
-
-```ini
-[OPERATOR]         Alkinoos Polyzos
-[LOCATION]         Greece 🇬🇷
-[DEPARTMENT]       Electrical & Computer Engineering (ECE) — student
-[ROLE]             Full-Stack Developer
-[STATUS]           Focusing 🤵
-[DIRECTIVE]        "Passionate perfectionist, building meaningful projects."
+[92m$[0m cat status.log
+[93m[BOOT][0m    systems online
+[93m[BASE][0m    Greece 🇬🇷
+[93m[DEPT][0m    Electrical & Computer Engineering — student
+[93m[STATUS][0m  focusing 🤵
+[93m[MOTTO][0m   passionate perfectionist, building meaningful projects
 ```
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=2&width=800" width="70%"/>
-</div>
-
-### `>> CONTRIBUTION TRAJECTORY`
+### `>> ACTIVITY_LOG`
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Alkinoos005/Alkinoos005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
 
-> Live orbit of my GitHub activity. Renders automatically once the Action's first run completes — check the Actions tab if this looks empty.
+```ansi
+[90m#[0m live contribution feed — renders automatically once the Action's
+[90m#[0m first run completes. Hosted on raw.githubusercontent.com, so this
+[90m#[0m one never gets blocked by ad-blockers.
+```
 
 <br>
 
-### `>> ONBOARD TELEMETRY`
+### `>> STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E5E5&icon_color=FF0033&text_color=b3b3b3" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&hide_border=true&background=00000000&ring=FF0033&fire=FF0033&currStreakLabel=E5E5E5&stroke=1a1a2e" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=true&bg_color=040705&title_color=39FF6A&icon_color=FFB000&text_color=c9ffd6" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkinoos005&hide_border=true&background=040705&ring=39FF6A&fire=FFB000&currStreakLabel=39FF6A&stroke=173a1f" width="48%"/>
 
 </div>
-
-<br>
-
-### `>> ONBOARD SYSTEMS // LANGUAGES`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=b3b3b3" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=true&bg_color=040705&title_color=39FF6A&text_color=c9ffd6" width="60%"/>
 
 </div>
 
+```ansi
+[90m#[0m the two cards above are hosted on vercel.app — if a card looks
+[90m#[0m blank to YOU specifically, it's almost certainly your ad-blocker
+[90m#[0m or network DNS filtering that domain, not a broken link. test in
+[90m#[0m an incognito window with extensions off to confirm.
+```
+
 <br>
 
-### `>> COMMAND CONSOLE`
+### `>> TOOLCHAIN`
 
 <div align="center">
 
@@ -70,24 +68,20 @@
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=2&width=800" width="70%"/>
-</div>
-
-### `>> LOGGED MISSIONS`
+### `>> MISSIONS.list`
 
 <table>
 <tr>
 <td width="50%">
 
-**🛰️ [AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
-Pinned mission. Swap this line for a one-sentence description of what it does.
+**🖥️ [AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)**
+Pinned repo. Swap this line for a one-sentence description.
 
 </td>
 <td width="50%">
 
-**🛰️ [Project Name]**
-Slot your next repo here — stack + link.
+**🖥️ [Portfolio Website](#)**
+Personal portfolio — terminal-themed, built from scratch. *(send me the live link or repo URL and I'll wire this up properly)*
 
 </td>
 </tr>
@@ -95,14 +89,14 @@ Slot your next repo here — stack + link.
 
 <br>
 
-### `>> ESTABLISH COMMUNICATION`
+### `>> CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E5E5E5)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E5E5E5)](https://www.instagram.com/alkinoos_polyzos/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E5E5E5)](https://github.com/Alkinoos005)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E5E5E5)](mailto:alkinoospolyzos23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-040705?style=for-the-badge&logo=linkedin&logoColor=39FF6A)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
+[![Instagram](https://img.shields.io/badge/Instagram-040705?style=for-the-badge&logo=instagram&logoColor=FFB000)](https://www.instagram.com/alkinoos_polyzos/)
+[![GitHub](https://img.shields.io/badge/GitHub-040705?style=for-the-badge&logo=github&logoColor=39FF6A)](https://github.com/Alkinoos005)
+[![Email](https://img.shields.io/badge/Email-040705?style=for-the-badge&logo=gmail&logoColor=FFB000)](mailto:alkinoospolyzos23@gmail.com)
 
 </div>
 
@@ -110,18 +104,17 @@ Slot your next repo here — stack + link.
 
 <div align="center">
 
-### `>> PRIORITY CHANNEL`
+### `>> PRIORITY_CHANNEL`
 
-[![Request Contact](https://img.shields.io/badge/📞_Request_my_number-1a1a2e?style=for-the-badge&logoColor=E5E5E5)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
+[![Request Contact](https://img.shields.io/badge/%3E_request_my_number-040705?style=for-the-badge&logoColor=39FF6A)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
 
-<sub>Tap it, tell me your name and number, and I'll respond with mine.</sub>
+<sub>tap it, tell me your name and number, I'll reply with mine.</sub>
 
 </div>
 
 <br>
 
-<div align="center">
-<sub><i>"I know I've made some very poor decisions recently, but I can give you my complete assurance my work will be back to normal."</i></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
+```ansi
+[92m$[0m exit
+[90mprocess finished.[0m
+```
