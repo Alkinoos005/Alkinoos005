@@ -1,9 +1,11 @@
+
+Readme · MD
 <div align="center">
 <img src="assets/header.svg" alt="terminal header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39FF6A&center=true&vCenter=true&width=650&lines=alkinoos%40github%3A~%24+whoami;Alkinoos+Polyzos;Full-Stack+Dev+%7C+ECE+Student+%7C+Builder;%F0%9F%94%8A+now+playing%3A+Back+in+Black+%E2%80%94+AC%2FDC;Type+a+command+to+continue..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=650&lines=alkinoos%40github%3A~%24+whoami;Alkinoos+Polyzos;Full-Stack+Dev+%7C+ECE+Student+%7C+Builder;%F0%9F%95%B8%EF%B8%8F+your+friendly+neighborhood+developer;%F0%9F%94%8A+now+playing%3A+Back+in+Black+%E2%80%94+AC%2FDC" alt="typing" />
 </div>
 <br>
-### `alkinoos@github:~$ neofetch`
+<h3><code>alkinoos@github:~$ neofetch</code></h3>
  
 ```
 NAME          Alkinoos Polyzos
@@ -16,52 +18,55 @@ UPTIME        since first line of code, still compiling
 ```
  
 <br>
-### `alkinoos@github:~$ cat education.txt`
+<h3><code>alkinoos@github:~$ cat education.txt</code></h3>
  
 **University of Western Macedonia**
 Dept. of Electrical & Computer Engineering — currently studying
  
 <br>
-### `alkinoos@github:~$ ./activity_log`
+<h3><code>alkinoos@github:~$ ./activity_log</code></h3>
  
+<p>Click any graph below to jump straight to your live contribution activity on GitHub.</p>
 <details open>
-<summary><b>🐍 Snake mode</b> — click to collapse</summary>
+<summary><b>🕸️ Snake mode</b> — click to collapse</summary>
 <br>
+<a href="https://github.com/Alkinoos005?tab=overview">
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/Alkinoos005/Alkinoos005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 <!--END_SECTION:snake-->
+</a>
 </details>
 <details>
 <summary><b>📊 Plain contribution graph</b> — click to expand</summary>
 <br>
-<img src="https://ghchart.rshah.org/39FF6A/Alkinoos005" alt="plain contribution graph" width="100%"/>
+<a href="https://github.com/Alkinoos005?tab=overview">
+<img src="https://ghchart.rshah.org/E62429/Alkinoos005" alt="plain contribution graph" width="100%"/>
+</a>
 </details>
 ```
-# both views pull the same real data, updated every 6 hours.
-# snake is hosted on raw.githubusercontent.com, the plain graph
-# on ghchart.rshah.org — neither depends on vercel.app, so
-# ad-blockers won't touch them.
+# both views pull the same real data, updated every 6 hours, and
+# both are clickable — they link straight to your GitHub overview
+# so you can see the exact daily breakdown behind the graph.
 ```
  
 <br>
-### `alkinoos@github:~$ ./stats`
+<h3><code>alkinoos@github:~$ ./stats</code></h3>
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=false&border_color=39FF6A&bg_color=0d1a10&title_color=39FF6A&icon_color=FFB000&text_color=f2fff5" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Alkinoos005&hide_border=false&border=39FF6A&background=0d1a10&ring=39FF6A&fire=FFB000&currStreakLabel=f2fff5&currStreakNum=f2fff5&sideLabels=f2fff5&sideNums=f2fff5&dates=8fd9a8" width="48%"/>
+<a href="https://github.com/Alkinoos005?tab=overview">
+<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=false&border_color=E62429&bg_color=140812&title_color=E62429&icon_color=8FA3FF&text_color=f2f4ff" width="48%"/>
+</a>
+<a href="https://github.com/Alkinoos005?tab=overview">
+<img src="https://streak-stats.demolab.com/?user=Alkinoos005&hide_border=false&border=E62429&background=140812&ring=E62429&fire=8FA3FF&currStreakLabel=f2f4ff&currStreakNum=f2f4ff&sideLabels=f2f4ff&sideNums=f2f4ff&dates=b3bce8" width="48%"/>
+</a>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=false&border_color=39FF6A&bg_color=0d1a10&title_color=39FF6A&text_color=f2fff5" width="60%"/>
+<a href="https://github.com/Alkinoos005?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=false&border_color=E62429&bg_color=140812&title_color=E62429&text_color=f2f4ff" width="60%"/>
+</a>
 </div>
-```
-# switched the streak card off herokuapp.com (that service has been
-# dead since Heroku killed free dynos) to streak-stats.demolab.com,
-# and lightened the card backgrounds + added a bright border so
-# they don't blend into GitHub's own dark background.
-```
- 
 <br>
-### `alkinoos@github:~/projects$ ls -la --show-cool-stuff`
+<h3><code>alkinoos@github:~/projects$ ls -la --show-cool-stuff</code></h3>
  
 | project | status | what it is |
 |---|---|---|
@@ -76,7 +81,7 @@ Dept. of Electrical & Computer Engineering — currently studying
 | **[Portfolio Website](#)** | `public` | Personal terminal-themed portfolio, built from scratch. *(send me the live link and I'll wire this row up)* |
  
 <br>
-### `alkinoos@github:~$ cat stack.txt`
+<h3><code>alkinoos@github:~$ cat stack.txt</code></h3>
  
 ```
 Python                            ████████████░░  85%
@@ -96,20 +101,20 @@ Git / Linux                       ███████████░░░  80
 ```
  
 <br>
-### `alkinoos@github:~$ ./contact`
+<h3><code>alkinoos@github:~$ ./contact</code></h3>
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-040705?style=for-the-badge&logo=linkedin&logoColor=39FF6A)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
-[![Instagram](https://img.shields.io/badge/Instagram-040705?style=for-the-badge&logo=instagram&logoColor=FFB000)](https://www.instagram.com/alkinoos_polyzos/)
-[![GitHub](https://img.shields.io/badge/GitHub-040705?style=for-the-badge&logo=github&logoColor=39FF6A)](https://github.com/Alkinoos005)
-[![Email](https://img.shields.io/badge/Email-040705?style=for-the-badge&logo=gmail&logoColor=FFB000)](mailto:alkinoospolyzos23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-140812?style=for-the-badge&logo=linkedin&logoColor=8FA3FF)](https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/)
+[![Instagram](https://img.shields.io/badge/Instagram-140812?style=for-the-badge&logo=instagram&logoColor=E62429)](https://www.instagram.com/alkinoos_polyzos/)
+[![GitHub](https://img.shields.io/badge/GitHub-140812?style=for-the-badge&logo=github&logoColor=8FA3FF)](https://github.com/Alkinoos005)
+[![Email](https://img.shields.io/badge/Email-140812?style=for-the-badge&logo=gmail&logoColor=E62429)](mailto:alkinoospolyzos23@gmail.com)
  
 </div>
 <br>
 <div align="center">
-### `alkinoos@github:~$ ./priority_channel`
+<h3><code>alkinoos@github:~$ ./priority_channel</code></h3>
  
-[![Request Contact](https://img.shields.io/badge/%3E_request_my_number-040705?style=for-the-badge&logoColor=39FF6A)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
+[![Request Contact](https://img.shields.io/badge/%3E_request_my_number-140812?style=for-the-badge&logoColor=E62429)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
  
 <sub>tap it, tell me your name and number, I'll reply with mine.</sub>
  
