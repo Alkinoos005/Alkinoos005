@@ -139,8 +139,7 @@ Git / Linux                       ███████████░░░  80
 <td align="center" width="25%" bgcolor="#1a2a5c">
 <a href="https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/">
 <br>
-<img src="https://img.shields.io/badge/-LinkedIn-1a2a5c?style=for-the-badge&logo=linkedin&logoColor=8FA3FF" height="34"/>
-<br><br>
+<img src="assets/icons/linkedin.svg" width="60" height="60"/>
 <br><b>LinkedIn</b>
 <br><sub>Alkinoos Polyzos</sub>
 <br><br>
@@ -150,7 +149,7 @@ Git / Linux                       ███████████░░░  80
 <td align="center" width="25%" bgcolor="#4a1030">
 <a href="https://www.instagram.com/alkinoos_polyzos/">
 <br>
-<img src="https://cdn.simpleicons.org/instagram/ff5c7a" width="60" height="60"/>
+<img src="assets/icons/instagram.svg" width="60" height="60"/>
 <br><b>Instagram</b>
 <br><sub>@alkinoos_polyzos</sub>
 <br><br>
@@ -160,7 +159,7 @@ Git / Linux                       ███████████░░░  80
 <td align="center" width="25%" bgcolor="#1c1c1c">
 <a href="https://github.com/Alkinoos005">
 <br>
-<img src="https://cdn.simpleicons.org/github/f2f4ff" width="60" height="60"/>
+<img src="assets/icons/github.svg" width="60" height="60"/>
 <br><b>GitHub</b>
 <br><sub>@Alkinoos005</sub>
 <br><br>
@@ -170,7 +169,7 @@ Git / Linux                       ███████████░░░  80
 <td align="center" width="25%" bgcolor="#5c1414">
 <a href="mailto:alkinoospolyzos23@gmail.com">
 <br>
-<img src="https://cdn.simpleicons.org/gmail/ff8a8a" width="60" height="60"/>
+<img src="assets/icons/gmail.svg" width="60" height="60"/>
 <br><b>Email</b>
 <br><sub>alkinoospolyzos23@gmail.com</sub>
 <br><br>
