@@ -10,6 +10,10 @@
 
 <h3><code>alkinoos@github:~$ neofetch</code></h3>
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ```
 NAME          Alkinoos Polyzos
 ROLE          Electrical & Computer Engineering student · Full-Stack Developer
@@ -19,6 +23,15 @@ STACK         Python · Java · JS/React · C/C++ · Kali Linux · Wireshark
 STATUS        ● building — always something on the bench
 UPTIME        since first line of code, still compiling
 ```
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="assets/hero.svg" alt="coder illustration" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -55,40 +68,26 @@ Dept. of Electrical & Computer Engineering — currently studying
 
 </details>
 
-```
-# both views pull the same real data, updated every 6 hours, and
-# both are clickable — they link straight to your GitHub overview
-# so you can see the exact daily breakdown behind the graph.
-```
-
 <br>
 
 <h3><code>alkinoos@github:~$ ./stats</code> 🔥📈</h3>
 
-<table align="center">
-<tr>
-<td align="center" bgcolor="#140812">
-
-<a href="https://github.com/Alkinoos005?tab=overview">
-<img src="https://github-readme-stats.vercel.app/api?username=Alkinoos005&show_icons=true&hide_border=false&border_color=E62429&bg_color=140812&title_color=E62429&icon_color=8FA3FF&text_color=f2f4ff" width="440"/>
-</a>
-
-</td>
-<td align="center" bgcolor="#140812">
-
-<a href="https://github.com/Alkinoos005?tab=overview">
-<img src="https://streak-stats.demolab.com/?user=Alkinoos005&hide_border=false&border=8FA3FF&background=140812&ring=8FA3FF&fire=E62429&currStreakLabel=f2f4ff&currStreakNum=f2f4ff&sideLabels=f2f4ff&sideNums=f2f4ff&dates=b3bce8" width="440"/>
-</a>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<a href="https://github.com/Alkinoos005?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkinoos005&layout=compact&hide_border=false&border_color=E62429&bg_color=140812&title_color=E62429&text_color=f2f4ff" width="60%"/>
+<a href="https://github.com/Alkinoos005?tab=overview">
+<img src="https://streak-stats.demolab.com/?user=Alkinoos005&hide_border=false&border=8FA3FF&background=140812&ring=8FA3FF&fire=E62429&currStreakLabel=f2f4ff&currStreakNum=f2f4ff&sideLabels=f2f4ff&sideNums=f2f4ff&dates=b3bce8" width="480"/>
 </a>
+
+<br><br>
+
+<a href="https://github.com/Alkinoos005?tab=followers"><img src="https://img.shields.io/github/followers/Alkinoos005?label=FOLLOWERS&style=for-the-badge&color=140812&labelColor=140812&logo=github&logoColor=8FA3FF"/></a>
+<a href="https://github.com/Alkinoos005?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlkinoos005&label=PUBLIC%20REPOS&query=%24.public_repos&style=for-the-badge&color=140812&labelColor=140812&logo=github&logoColor=E62429"/></a>
+
+<br><br>
+
+<sub># dropped the old vercel.app stats card for good — it kept breaking
+for you specifically. streak-stats.demolab.com and img.shields.io have
+been rock solid all conversation, so everything here now runs on those.</sub>
 
 </div>
 
@@ -98,15 +97,15 @@ Dept. of Electrical & Computer Engineering — currently studying
 
 | project | status | what it is |
 |---|---|---|
-| **jarvis/** | `wip` | Personal AI assistant running locally — voice input, task automation, a growing set of skills. A real Jarvis, not a chatbot with a nice name. |
-| **lock-in/** | `wip` | Focus app with stakes. Locks distracting apps during a session; break early and you lose your reward. Turns discipline into a game. |
+| **jarvis/** | `wip` | Personal AI assistant running locally — voice input, task automation, a growing set of skills. |
+| **lock-in/** | `wip` | Focus app with stakes. Locks distracting apps during a session; break early and you lose your reward. |
 | **fitness-app/** | `building` | Workout and progress tracker built around consistency over intensity. |
 | **arise/** | `building` | Morning-routine app that turns waking up early into a daily win instead of a chore. |
-| **embedded-systems/** | `active` | Arduino Uno & ESP32 builds plus 3D-printed enclosures — the physical layer everything else runs on. |
+| **embedded-systems/** | `active` | Arduino Uno & ESP32 builds plus 3D-printed enclosures. |
 | **smart-home/** | `in progress` | Homegrown smart-home setup — ESP32 nodes, sensors, automation logic. |
 | **walle/** | `wip` | A WALL-E-inspired robot build — chassis, movement, a bit of personality. |
-| **[AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)** | `public` | Main GitHub project space — where everything above gets versioned and cleaned up. |
-| **[Portfolio Website](#)** | `public` | Personal terminal-themed portfolio, built from scratch. *(send me the live link and I'll wire this row up)* |
+| **[AlkinoosTech](https://github.com/Alkinoos005/AlkinoosTech)** | `public` | Main GitHub project space. |
+| **[Portfolio Website](#)** | `public` | Personal terminal-themed portfolio, built from scratch. *(send me the live link)* |
 
 <br>
 
@@ -131,61 +130,22 @@ Git / Linux                       ███████████░░░  80
 
 <br>
 
-<h3><code>alkinoos@github:~$ ./contact --verbose</code></h3>
-
-<table>
-<tr>
-
-<td align="center" width="25%" bgcolor="#1a2a5c">
-<a href="https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/">
-<br>
-<img src="assets/icons/linkedin.svg" width="60" height="60"/>
-<br><b>LinkedIn</b>
-<br><sub>Alkinoos Polyzos</sub>
-<br><br>
-</a>
-</td>
-
-<td align="center" width="25%" bgcolor="#4a1030">
-<a href="https://www.instagram.com/alkinoos_polyzos/">
-<br>
-<img src="assets/icons/instagram.svg" width="60" height="60"/>
-<br><b>Instagram</b>
-<br><sub>@alkinoos_polyzos</sub>
-<br><br>
-</a>
-</td>
-
-<td align="center" width="25%" bgcolor="#1c1c1c">
-<a href="https://github.com/Alkinoos005">
-<br>
-<img src="assets/icons/github.svg" width="60" height="60"/>
-<br><b>GitHub</b>
-<br><sub>@Alkinoos005</sub>
-<br><br>
-</a>
-</td>
-
-<td align="center" width="25%" bgcolor="#5c1414">
-<a href="mailto:alkinoospolyzos23@gmail.com">
-<br>
-<img src="assets/icons/gmail.svg" width="60" height="60"/>
-<br><b>Email</b>
-<br><sub>alkinoospolyzos23@gmail.com</sub>
-<br><br>
-</a>
-</td>
-
-</tr>
-</table>
-
-<br>
+<h3><code>alkinoos@github:~$ ./contact</code></h3>
 
 <div align="center">
 
-<h3><code>alkinoos@github:~$ ./priority_channel</code></h3>
+<a href="https://www.linkedin.com/in/alkinoos-polyzos-b6149335a/"><img src="assets/icons/linkedin.svg" width="42" height="42"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/alkinoos_polyzos/"><img src="assets/icons/instagram.svg" width="42" height="42"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Alkinoos005"><img src="assets/icons/github.svg" width="42" height="42"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:alkinoospolyzos23@gmail.com"><img src="assets/icons/gmail.svg" width="42" height="42"/></a>
 
-[![Request Contact](https://img.shields.io/badge/%3E_request_my_number-140812?style=for-the-badge&logoColor=E62429)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
+<br><br>
+
+**Alkinoos Polyzos** &nbsp;·&nbsp; `@alkinoos_polyzos` &nbsp;·&nbsp; `@Alkinoos005` &nbsp;·&nbsp; alkinoospolyzos23@gmail.com
+
+<br>
+
+[![Request my number](https://img.shields.io/badge/%3E_request_my_number-140812?style=for-the-badge&logoColor=E62429)](mailto:alkinoospolyzos23@gmail.com?subject=Priority%20Channel%20Request&body=Name%3A%20%0APhone%3A%20%0AMessage%3A%20%0A%0ATell%20me%20who%20you%20are%20and%20leave%20your%20number%20%E2%80%94%20I%27ll%20get%20back%20to%20you%20with%20mine.)
 
 <sub>tap it, tell me your name and number, I'll reply with mine.</sub>
 
