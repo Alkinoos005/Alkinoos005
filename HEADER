@@ -83,4 +83,4 @@
   <rect x="34" y="188" width="9" height="15" fill="#e62429">
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
-</svg>
+</svg> 
