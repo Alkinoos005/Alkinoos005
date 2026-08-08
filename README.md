@@ -8,30 +8,31 @@
 
 <br>
 
-<h3><code>alkinoos@github:~$ neofetch</code></h3>
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-```
-NAME          Alkinoos Polyzos
-ROLE          Electrical & Computer Engineering student · Full-Stack Developer
-LOCATION      Greece
-FOCUS         Software Engineering · Applied AI · Robotics · Embedded Systems
-STACK         Python · Java · JS/React · C/C++ · Kali Linux · Wireshark
-STATUS        ● building — always something on the bench
-UPTIME        since first line of code, still compiling
-```
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="assets/hero.svg" alt="coder illustration" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <table border="0" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; width: 100%;">
+    <tr>
+      <td colspan="2" align="left" style="border: none; padding-bottom: 12px; font-family: monospace; color: #c9d1d9; font-size: 16px;">
+        <b>alkinoos@github:~$ neofetch</b>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" style="border: none; padding-right: 15px;">
+<pre style="font-family: monospace; font-size: 13px; line-height: 1.6; color: #c9d1d9; background: transparent; border: none; margin: 0;">
+<span style="color: #8b949e;">NAME        </span> <b>Alkinoos Polyzos</b>
+<span style="color: #8b949e;">ROLE        </span> <b>Electrical & Computer Engineering student · Full-Stack Developer</b>
+<span style="color: #8b949e;">LOCATION    </span> <b>Greece</b>
+<span style="color: #8b949e;">FOCUS       </span> <b>Software Engineering · Applied AI · Robotics · Embedded Systems</b>
+<span style="color: #8b949e;">STACK       </span> <b>Python · Java · JS/React · C/C++ · Kali Linux · Wireshark</b>
+<span style="color: #8b949e;">STATUS      </span> <span style="color: #39da8a;">●</span> <b>building — always something on the bench</b>
+<span style="color: #8b949e;">UPTIME      </span> <b>since first line of code, still compiling</b>
+</pre>
+      </td>
+      <td valign="middle" align="center" style="border: none; border-left: 1px solid #30363d; padding-left: 15px; width: 35%;">
+        <img src="assets/spidey-dev.png" width="100%" style="border-radius: 8px; display: block;" alt="friendly neighborhood dev" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -111,22 +112,21 @@ been rock solid all conversation, so everything here now runs on those.</sub>
 
 <h3><code>alkinoos@github:~$ cat stack.txt</code> 🧬⚡</h3>
 
-```
-Python                            ████████████░░  85%
-Java                              █████████░░░░░  65%
-C / C++                           ██████████░░░░  70%
-JavaScript / React                ██████████░░░░  70%
-HTML / CSS                        ███████████░░░  80%
-SQL                               ████████░░░░░░  60%
-Embedded (Arduino/ESP32)          ███████████░░░  80%
-Kali Linux                        ████████░░░░░░  55%
-Wireshark                         ███████░░░░░░░  50%
-Ethical Hacking & Cyber Security  ████████░░░░░░  55%
-ML / PyTorch                      ████████░░░░░░  60%
-ROS / Robotics                    ████████░░░░░░  55%
-3D Printing / CAD                 █████████░░░░░  65%
-Git / Linux                       ███████████░░░  80%
-```
+Python                          ████████████░░  85%
+Java                            █████████░░░░░  65%
+C / C++                         ██████████░░░░  70%
+JavaScript / React              ██████████░░░░  70%
+HTML / CSS                      ███████████░░░  80%
+SQL                             ████████░░░░░░  60%
+Embedded (Arduino/ESP32)        ███████████░░░  80%
+Kali Linux                      ████████░░░░░░  55%
+Wireshark                       ███████░░░░░░░  50%
+Ethical Hacking & Cyber Security ████████░░░░░░  55%
+ML / PyTorch                    ████████░░░░░░  60%
+ROS / Robotics                  ████████░░░░░░  55%
+3D Printing / CAD               █████████░░░░░  65%
+Git / Linux                     ███████████░░░  80%
+
 
 <br>
 
