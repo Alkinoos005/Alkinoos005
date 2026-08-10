@@ -35,7 +35,7 @@ UPTIME        since first line of code, still compiling
 
 <br>
 
-<h3><code>alkinoos@github:~$ cat about.txt</code></h3>
+<h3><code>alkinoos@github: ABOUT.txt</code></h3>
 
 Full-Stack Developer and Electrical & Computer Engineering student based in Greece,
 currently studying at the University of Western Macedonia. Splits time between
@@ -53,14 +53,14 @@ on the bench, still compiling.
 
 <br>
 
-<h3><code>alkinoos@github:~$ cat education.txt</code></h3>
+<h3><code>alkinoos@github: EDUCATION.txt</code></h3>
 
 **University of Western Macedonia**
 Dept. of Electrical & Computer Engineering — currently studying
 
 <br>
 
-<h3><code>alkinoos@github:~$ ./activity_log</code></h3>
+<h3><code>alkinoos@github: Activity_log</code></h3>
 
 <p>Click any graph below to jump straight to your live contribution activity on GitHub.</p>
 
@@ -88,7 +88,7 @@ Dept. of Electrical & Computer Engineering — currently studying
 
 <br>
 
-<h3><code>alkinoos@github:~$ ./stats</code> 🔥📈</h3>
+<h3><code>alkinoos@github: Stats</code> 🔥📈</h3>
 
 <div align="center">
 
@@ -111,9 +111,9 @@ been rock solid all conversation, so everything here now runs on those.</sub>
 
 <br>
 
-<h3><code>alkinoos@github:~/projects$ ls -la --show-cool-stuff</code></h3>
+<h3><code>alkinoos@github: Projects/SHOW YOU SOME COOL STUFF</code></h3>
 
-| project | status | what it is |
+| project | status | What is that |
 |---|---|---|
 | **jarvis/** | `wip` | Personal AI assistant running locally — voice input, task automation, a growing set of skills. |
 | **lock-in/** | `wip` | Focus app with stakes. Locks distracting apps during a session; break early and you lose your reward. |
@@ -148,7 +148,7 @@ Git / Linux                       ███████████░░░  80
 
 <br>
 
-<h3><code>alkinoos@github:~$ ./contact</code></h3>
+<h3><code>alkinoos@github: CONTACT INFO</code></h3>
 
 <div align="center">
 
