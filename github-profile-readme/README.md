@@ -55,6 +55,10 @@ on the bench, still compiling.
 
 <h3><code>alkinoos@github:~$ cat education.txt</code></h3>
 
+<a href="https://www.uowm.gr/en/">
+<img src="https://www.uowm.gr/wp-content/uploads/2023/05/UOWM_Logo_Eng.png" alt="University of Western Macedonia" height="55"/>
+</a>
+
 **University of Western Macedonia**
 Dept. of Electrical & Computer Engineering — currently studying
 
@@ -101,12 +105,6 @@ Dept. of Electrical & Computer Engineering — currently studying
 <a href="https://github.com/Alkinoos005?tab=followers"><img src="https://img.shields.io/github/followers/Alkinoos005?label=FOLLOWERS&style=for-the-badge&color=140812&labelColor=140812&logo=github&logoColor=8FA3FF"/></a>
 <a href="https://github.com/Alkinoos005?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlkinoos005&label=PUBLIC%20REPOS&query=%24.public_repos&style=for-the-badge&color=140812&labelColor=140812&logo=github&logoColor=E62429"/></a>
 
-<br><br>
-
-<sub># dropped the old vercel.app stats card for good — it kept breaking
-for you specifically. streak-stats.demolab.com and img.shields.io have
-been rock solid all conversation, so everything here now runs on those.</sub>
-
 </div>
 
 <br>
@@ -129,24 +127,31 @@ been rock solid all conversation, so everything here now runs on those.</sub>
 
 <h3><code>alkinoos@github:~$ cat stack.txt</code> 🧬⚡</h3>
 
-```
-Python                            ████████████░░  85%
-Java                              █████████░░░░░  65%
-C / C++                           ██████████░░░░  70%
-JavaScript / React                ██████████░░░░  70%
-HTML / CSS                        ███████████░░░  80%
-SQL                               ████████░░░░░░  60%
-Embedded (Arduino/ESP32)          ███████████░░░  80%
-Kali Linux                        ████████░░░░░░  55%
-Wireshark                         ███████░░░░░░░  50%
-Ethical Hacking & Cyber Security  ████████░░░░░░  55%
-ML / PyTorch                      ████████░░░░░░  60%
-ROS / Robotics                    ████████░░░░░░  55%
-3D Printing / CAD                 █████████░░░░░  65%
-Git / Linux                       ███████████░░░  80%
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 <br>
+
+
 
 <h3><code>alkinoos@github:~$ ./contact</code></h3>
 
